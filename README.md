@@ -3,8 +3,8 @@
 ##  Project Description
 This project is a **Handwriting Recognition System** that can identify English alphabets (A–Z) from a given image.
 The user provides a **black and white clean image of a single alphabet**, and the model predicts which alphabet it is using a **CNN (Convolutional Neural Network)**.
----
 
+---
 ##  Features
 * Predicts handwritten alphabets (A–Z)
 * Accepts user-uploaded image
